@@ -87,22 +87,9 @@
 </div>
 
 ---
-
 <div align="center">
-
-| | |
-|:---:|:---:|
-| **Role** | Digital Electronic Engineer · Chief Architect |
-| **School** | Hanoi University of Industry (HAUI) |
-| **Focus** | Embedded Systems · UEFI · Microchips · Cloud Infra |
-| **Stack** | `C/C++` `Python` `Shell` `TypeScript` `TeX` |
-| **Infra** | ThinkPad X1C7 · DigitalOcean RHEL10 · WireGuard · Cloudflare |
-| **License** | [The Unlicense](https://unlicense.org) — all repos, public domain |
-
 </div>
-
 ---
-
 <div align="center">
 
 [![ieeeminh.tech](https://img.shields.io/badge/ieeeminh.tech-8B0000?style=flat-square&logo=google-chrome&logoColor=white)](https://ieeeminh.tech)
