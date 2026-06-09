@@ -5,7 +5,7 @@
 
 [![Hanoi University of Industry](https://img.shields.io/badge/Hanoi_University_of_Industry-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://haui.edu.vn)
 
-[![Phone](https://img.shields.io/badge/Contact-84868228838-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84868228838)
+[![Phone](https://img.shields.io/badge/Contact-84868228838-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://t.me/ieeeminh)
 
 [![Email](https://img.shields.io/badge/dev@ieeeminh.tech-007AFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@ieeeminh.tech)
 
