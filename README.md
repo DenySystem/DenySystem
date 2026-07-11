@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/dev@ieeeminh.tech-007AFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@ieeeminh.tech)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-UEFI-0055FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uefi)
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2527--6329-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2527-6329)
 
 </div>
