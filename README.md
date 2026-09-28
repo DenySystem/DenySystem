@@ -1,9 +1,7 @@
 #
 <div align="center">
 
-[![Embedded Systems & Microchips](https://img.shields.io/badge/Embedded_Systems_%26_Microchips_%E2%84%A2-7B0000?style=for-the-badge&logo=embarcadero&logoColor=white)](https://ieeeminh.dev)
-
-[![Hanoi University of Industry](https://img.shields.io/badge/Hanoi_University_of_Industry-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://haui.edu.vn)
+[![Hanoi University of Industry](https://img.shields.io/badge/Hanoi_University_of_Industry-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://haui.edu.vn) [![Embedded Systems & Microchips](https://img.shields.io/badge/Embedded_Systems_%26_Microchips_%E2%84%A2-7B0000?style=for-the-badge&logo=embarcadero&logoColor=white)](https://ieeeminh.dev)
 
 [![Phone](https://img.shields.io/badge/Contact-84868228838-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://t.me/ieeeminh)
 
