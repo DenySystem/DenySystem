@@ -1,5 +1,3 @@
-<img width="4032" height="3024" alt="IMG_6324" src="https://github.com/user-attachments/assets/6c25adce-4440-4898-8cce-551ef0b5bc88" />
-
 <div align="center">
 
 [![Hanoi University of Industry](https://img.shields.io/badge/Hanoi_University_of_Industry-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://haui.edu.vn) [![Embedded Systems & Microchips](https://img.shields.io/badge/Embedded_Systems_%26_Microchips_%E2%84%A2-7B0000?style=for-the-badge&logo=embarcadero&logoColor=white)](https://ieeeminh.dev) [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2527--6329-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-2527-6329)
